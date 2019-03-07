@@ -4,4 +4,4 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
-addElementToBeginningOfArray = ["hershey" ...chocolateBars];
+addElementToBeginningOfArray = ["hershey", ...chocolateBars];
