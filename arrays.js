@@ -4,4 +4,6 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
-addElementToBeginningOfArray = ["hershey", ...chocolateBars]
+function addElementToBeginningOfArray(array, element) {
+  return [element, array]
+}
