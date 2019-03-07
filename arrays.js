@@ -4,4 +4,4 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
-chocolateBars.unshift["hershey"];
+addElementToBeginningOfArray.unshift["hershey"];
