@@ -5,4 +5,4 @@ var chocolateBars = [
   'skittles'
 ]
 
-chocolateBars = ["hershey", ...chocolateBars]
+console.log(arr[0]);
