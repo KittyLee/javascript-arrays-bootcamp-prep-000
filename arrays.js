@@ -4,5 +4,4 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
-
-console.log(arr[0]);
+chocolateBars.unshift["hershey"];
