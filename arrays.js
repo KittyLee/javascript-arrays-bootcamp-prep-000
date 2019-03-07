@@ -5,7 +5,6 @@ var chocolateBars = [
   'skittles'
 ]
 function addElementToBeginningOfArray(array, element) {
-  const array = ["element"]
   return [element, array]
 }
 
